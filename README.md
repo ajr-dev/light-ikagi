@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **more about machine learning, data science and unity**
 
-- 📫 How to reach me **zedosefreelance@gmail.com**
+- 📫 How to reach me **zedosefreelance@gmail.com** and Kowareta#6935 on Discord
 
 - ⚡ Fun fact **during school vacations I would stay home and basically just code**
 <p align="left">
