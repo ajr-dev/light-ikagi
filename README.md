@@ -12,8 +12,6 @@
 - 📫 How to reach me **zedosefreelance@gmail.com**
 
 - ⚡ Fun fact **during school vacations I would stay home and basically just code**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
